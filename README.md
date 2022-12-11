@@ -2,6 +2,7 @@
 Description: A simple yet challenging project, to predict the housing price based on certain factors like house area, bedrooms, furnished, nearness to mainroad, etc.
 
 Dataset : <a>https://www.kaggle.com/datasets/anthonypino/melbourne-housing-market</a>
+Dashboard : <a>https://datastudio.google.com/reporting/c3b0ecea-acfa-4109-81ac-b3d29373bfe9<a/>
 
 Data Dictionary:
 
