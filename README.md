@@ -5,7 +5,7 @@ Description: A simple yet challenging project, to predict the housing price base
 
 <b>Dashboard :</b> <a>https://datastudio.google.com/reporting/c3b0ecea-acfa-4109-81ac-b3d29373bfe9<a/>
 
-<b>Data Dictionary:</b>
+### Data Dictionary:
 
 - <b>price:</b> Price of the Houses
 - <b>area:</b> Area of a House
