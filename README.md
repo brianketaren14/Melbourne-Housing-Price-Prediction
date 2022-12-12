@@ -7,16 +7,16 @@ Description: A simple yet challenging project, to predict the housing price base
 
 <b>Data Dictionary:</b>
 
-- price: Price of the Houses
-- area:Area of a House
-- bedrooms: Number of House Bedrooms
-- bathrooms: Number if Bathrooms
-- stories: Number of House Stories
-- mainroad: Wether connected to Main Road
-- guestroom: Wether has a guest room
-- basement: Wether has a basement
-- hotwaterheating: Wether has a hotwater heater
-- airconditioning: Wether has an airconditioning
-- parking: Number of House Parkings
-- prefarea: Prefarea of the House
-- furnishingstatus: Furnishing status of the House
+- <b>price:</b> Price of the Houses
+- <b>area:</b> Area of a House
+- <b>bedrooms:</b> Number of House Bedrooms
+- <b>bathrooms:</b> Number if Bathrooms
+- <b>stories:</b> Number of House Stories
+- <b>mainroad:</b> Wether connected to Main Road
+- <b>guestroom:</b> Wether has a guest room
+- <b>basement:</b> Wether has a basement
+- <b>hotwaterheating:</b> Wether has a hotwater heater
+- <b>airconditioning:</b> Wether has an airconditioning
+- <b>parking:</b> Number of House Parkings
+- <b>prefarea:</b> Prefarea of the House
+- <b>furnishingstatus:</b> Furnishing status of the House
